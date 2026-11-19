@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-labelledby="sot sod">
+<title id="sot">Contact details</title>
+<desc id="sod">Contact cards for GitHub, email and location. LinkedIn is coming soon and the portfolio website is under development.</desc>
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+</defs>
+<rect width="1000" height="260" rx="24" fill="#0d0e16"/>
+<g><animate attributeName="opacity" begin="0s" dur="0.9s" fill="freeze" values="0;0;1" keyTimes="0;0.0111;1"/>
+<rect x="20" y="20" width="300" height="100" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-width="1.2" stroke-opacity="0.5"><animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="42" y="46" width="48" height="48" rx="14" fill="url(#tg)" fill-opacity="0.2" stroke="url(#bd)" stroke-opacity="0.6"/>
+<text x="66" y="76" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" font-weight="700" fill="#38bdf8">GH</text>
+<text x="106" y="62" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" letter-spacing="1.5" fill="#9ca3af">GITHUB</text>
+<text x="106" y="88" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#f3f4f6">github.com/Waqarfaridkhan</text>
+</g>
+<g><animate attributeName="opacity" begin="0s" dur="1.02s" fill="freeze" values="0;0;1" keyTimes="0;0.1176;1"/>
+<rect x="350" y="20" width="300" height="100" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-width="1.2" stroke-opacity="0.5"><animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="372" y="46" width="48" height="48" rx="14" fill="url(#tg)" fill-opacity="0.2" stroke="url(#bd)" stroke-opacity="0.6"/>
+<text x="396" y="76" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" font-weight="700" fill="#38bdf8">@</text>
+<text x="436" y="62" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" letter-spacing="1.5" fill="#9ca3af">EMAIL</text>
+<text x="436" y="88" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#f3f4f6">waqarfaridkhan01@gmail.com</text>
+</g>
+<g><animate attributeName="opacity" begin="0s" dur="1.14s" fill="freeze" values="0;0;1" keyTimes="0;0.2105;1"/>
+<rect x="680" y="20" width="300" height="100" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-width="1.2" stroke-opacity="0.5"><animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="702" y="46" width="48" height="48" rx="14" fill="url(#tg)" fill-opacity="0.2" stroke="url(#bd)" stroke-opacity="0.6"/>
+<g transform="translate(726 68)"><path d="M0,-12 C7,-12 11,-7 11,-2 C11,5 0,14 0,14 C0,14 -11,5 -11,-2 C-11,-7 -7,-12 0,-12 Z" fill="none" stroke="#38bdf8" stroke-width="2"/><circle cx="0" cy="-2" r="3.5" fill="#a78bfa"/></g>
+<text x="766" y="62" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" letter-spacing="1.5" fill="#9ca3af">LOCATION</text>
+<text x="766" y="88" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#f3f4f6">Sahiwal, Pakistan</text>
+</g>
+<g><animate attributeName="opacity" begin="0s" dur="1.26s" fill="freeze" values="0;0;1" keyTimes="0;0.2857;1"/>
+<rect x="20" y="140" width="460" height="100" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-width="1.2" stroke-opacity="0.5" stroke-dasharray="5 4"><animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="7s" repeatCount="indefinite"/></rect>
+<rect x="42" y="166" width="48" height="48" rx="14" fill="url(#tg)" fill-opacity="0.1" stroke="url(#bd)" stroke-opacity="0.6"/>
+<text x="66" y="196" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" font-weight="700" fill="#38bdf8">in</text>
+<text x="106" y="182" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" letter-spacing="1.5" fill="#9ca3af">LINKEDIN</text>
+<text x="106" y="208" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#a78bfa">Coming Soon</text>
+</g>
+<g><animate attributeName="opacity" begin="0s" dur="1.38s" fill="freeze" values="0;0;1" keyTimes="0;0.3478;1"/>
+<rect x="520" y="140" width="460" height="100" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-width="1.2" stroke-opacity="0.5" stroke-dasharray="5 4"><animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="542" y="166" width="48" height="48" rx="14" fill="url(#tg)" fill-opacity="0.1" stroke="url(#bd)" stroke-opacity="0.6"/>
+<text x="566" y="196" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" font-weight="700" fill="#38bdf8">&lt;/&gt;</text>
+<text x="606" y="182" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" letter-spacing="1.5" fill="#9ca3af">PORTFOLIO WEBSITE</text>
+<text x="606" y="208" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#a78bfa">Under Development</text>
+</g>
+</svg>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 572" width="1000" height="572" role="img" aria-labelledby="skt skd">
+<title id="skt">Technical skills by category</title>
+<desc id="skd">Skill cards for Programming and Web Development, Artificial Intelligence, Design and Creativity, Tools and Technologies, and Business and Professional skills with proficiency levels. PHP has no level specified.</desc>
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+</defs>
+<rect width="1000" height="572" rx="24" fill="#0d0e16"/>
+<g><animate attributeName="opacity" begin="0s" dur="0.9s" fill="freeze" values="0;0;1" keyTimes="0;0.0111;1"/>
+<rect x="20" y="20" width="300" height="294" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-opacity="0.55" stroke-width="1.2"/>
+<rect x="40" y="36" width="34" height="34" rx="10" fill="url(#tg)" fill-opacity="0.18" stroke="url(#bd)" stroke-opacity="0.6"/>
+<text x="57" y="58" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#38bdf8">&lt;/&gt;</text>
+<text x="84" y="58" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#f3f4f6">Programming &amp; Web Development</text>
+<text x="44" y="102" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">HTML5</text>
+<text x="44" y="118" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="236" y="94" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="259" y="94" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="282" y="94" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="44" y="146" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">CSS3</text>
+<text x="44" y="162" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="236" y="138" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="259" y="138" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="282" y="138" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="44" y="190" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">JavaScript</text>
+<text x="44" y="206" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Intermediate</text>
+<rect x="236" y="182" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="259" y="182" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="282" y="182" width="18" height="8" rx="4" fill="#ffffff" fill-opacity="0.1"/>
+<text x="44" y="234" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">Python</text>
+<text x="44" y="250" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="236" y="226" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="259" y="226" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="282" y="226" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="44" y="278" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">PHP</text>
+<text x="44" y="294" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Level not specified</text>
+<rect x="236" y="270" width="18" height="8" rx="4" fill="none" stroke="#9ca3af" stroke-opacity="0.6" stroke-dasharray="3 2"/><rect x="259" y="270" width="18" height="8" rx="4" fill="none" stroke="#9ca3af" stroke-opacity="0.6" stroke-dasharray="3 2"/><rect x="282" y="270" width="18" height="8" rx="4" fill="none" stroke="#9ca3af" stroke-opacity="0.6" stroke-dasharray="3 2"/>
+</g>
+<g><animate attributeName="opacity" begin="0s" dur="1.05s" fill="freeze" values="0;0;1" keyTimes="0;0.1429;1"/>
+<rect x="350" y="20" width="300" height="294" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-opacity="0.55" stroke-width="1.2"/>
+<rect x="370" y="36" width="34" height="34" rx="10" fill="url(#tg)" fill-opacity="0.18" stroke="url(#bd)" stroke-opacity="0.6"/>
+<text x="387" y="58" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#38bdf8">AI</text>
+<text x="414" y="58" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#f3f4f6">Artificial Intelligence</text>
+<text x="374" y="102" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">ChatGPT / AI Tools</text>
+<text x="374" y="118" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="566" y="94" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="589" y="94" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="612" y="94" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="374" y="146" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">Claude AI</text>
+<text x="374" y="162" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="566" y="138" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="589" y="138" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="612" y="138" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="374" y="190" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">Prompt Engineering</text>
+<text x="374" y="206" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="566" y="182" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="589" y="182" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="612" y="182" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="374" y="234" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">AI-Assisted Development</text>
+<text x="374" y="250" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Intermediate</text>
+<rect x="566" y="226" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="589" y="226" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="612" y="226" width="18" height="8" rx="4" fill="#ffffff" fill-opacity="0.1"/>
+</g>
+<g><animate attributeName="opacity" begin="0s" dur="1.2s" fill="freeze" values="0;0;1" keyTimes="0;0.25;1"/>
+<rect x="680" y="20" width="300" height="294" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-opacity="0.55" stroke-width="1.2"/>
+<rect x="700" y="36" width="34" height="34" rx="10" fill="url(#tg)" fill-opacity="0.18" stroke="url(#bd)" stroke-opacity="0.6"/>
+<text x="717" y="58" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#38bdf8">Aa</text>
+<text x="744" y="58" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#f3f4f6">Design &amp; Creativity</text>
+<text x="704" y="102" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">Graphic Designing</text>
+<text x="704" y="118" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="896" y="94" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="919" y="94" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="942" y="94" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="704" y="146" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">UI/UX Design</text>
+<text x="704" y="162" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="896" y="138" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="919" y="138" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="942" y="138" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="704" y="190" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">Canva</text>
+<text x="704" y="206" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="896" y="182" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="919" y="182" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="942" y="182" width="18" height="8" rx="4" fill="url(#tg)"/>
+</g>
+<g><animate attributeName="opacity" begin="0s" dur="1.35s" fill="freeze" values="0;0;1" keyTimes="0;0.3333;1"/>
+<rect x="20" y="338" width="300" height="214" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-opacity="0.55" stroke-width="1.2"/>
+<rect x="40" y="354" width="34" height="34" rx="10" fill="url(#tg)" fill-opacity="0.18" stroke="url(#bd)" stroke-opacity="0.6"/>
+<text x="57" y="376" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#38bdf8">{ }</text>
+<text x="84" y="376" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#f3f4f6">Tools &amp; Technologies</text>
+<text x="44" y="420" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">Git</text>
+<text x="44" y="436" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="236" y="412" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="259" y="412" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="282" y="412" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="44" y="464" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">GitHub</text>
+<text x="44" y="480" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="236" y="456" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="259" y="456" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="282" y="456" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="44" y="508" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">VS Code</text>
+<text x="44" y="524" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="236" y="500" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="259" y="500" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="282" y="500" width="18" height="8" rx="4" fill="url(#tg)"/>
+</g>
+<g><animate attributeName="opacity" begin="0s" dur="1.5s" fill="freeze" values="0;0;1" keyTimes="0;0.4;1"/>
+<rect x="350" y="338" width="300" height="214" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-opacity="0.55" stroke-width="1.2"/>
+<rect x="370" y="354" width="34" height="34" rx="10" fill="url(#tg)" fill-opacity="0.18" stroke="url(#bd)" stroke-opacity="0.6"/>
+<text x="387" y="376" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#38bdf8">BD</text>
+<text x="414" y="376" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#f3f4f6">Business &amp; Professional</text>
+<text x="374" y="420" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">Business Development</text>
+<text x="374" y="436" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="566" y="412" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="589" y="412" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="612" y="412" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="374" y="464" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">Sales &amp; Marketing</text>
+<text x="374" y="480" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="566" y="456" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="589" y="456" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="612" y="456" width="18" height="8" rx="4" fill="url(#tg)"/>
+<text x="374" y="508" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">Communication</text>
+<text x="374" y="524" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#9ca3af">Advanced</text>
+<rect x="566" y="500" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="589" y="500" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="612" y="500" width="18" height="8" rx="4" fill="url(#tg)"/>
+</g>
+<g><animate attributeName="opacity" begin="0s" dur="1.7s" fill="freeze" values="0;0;1" keyTimes="0;0.4706;1"/>
+<rect x="680" y="338" width="300" height="214" rx="18" fill="#141626" fill-opacity="0.9" stroke="url(#bd)" stroke-opacity="0.35" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="704" y="376" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#f3f4f6">Proficiency Legend</text>
+<rect x="704" y="411" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="727" y="411" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="750" y="411" width="18" height="8" rx="4" fill="url(#tg)"/><text x="792" y="420" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#e5e7eb">Advanced</text>
+<rect x="704" y="441" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="727" y="441" width="18" height="8" rx="4" fill="url(#tg)"/><rect x="750" y="441" width="18" height="8" rx="4" fill="#ffffff" fill-opacity="0.1"/><text x="792" y="450" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#e5e7eb">Intermediate</text>
+<rect x="704" y="471" width="18" height="8" rx="4" fill="none" stroke="#9ca3af" stroke-opacity="0.6" stroke-dasharray="3 2"/><rect x="727" y="471" width="18" height="8" rx="4" fill="none" stroke="#9ca3af" stroke-opacity="0.6" stroke-dasharray="3 2"/><rect x="750" y="471" width="18" height="8" rx="4" fill="none" stroke="#9ca3af" stroke-opacity="0.6" stroke-dasharray="3 2"/><text x="792" y="480" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#e5e7eb">Level not specified</text>
+<text x="704" y="532" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#9ca3af">Levels shown as provided by Waqar.</text>
+</g>
+</svg>
