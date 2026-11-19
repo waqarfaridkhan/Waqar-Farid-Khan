@@ -109,17 +109,7 @@ I'm **Waqar Farid**, an **AI-Powered Developer** and **Developer & Entrepreneur*
 <img src="./assets/experience.svg" alt="Animated career timeline for Business Development Manager at QTO Solutions, 1 Year" width="100%" />
 </div>
 
-<table><tr><td width="100%">
 
-### Business Development Manager · QTO Solutions
-
-**Duration:** 1 Year
-
-**Core responsibilities**
-
-`Lead Generation` · `Client Communication` · `Business Development` · `Sales & Marketing` · `Email Outreach` · `Deal Closing`
-
-</td></tr></table>
 
 ---
 
