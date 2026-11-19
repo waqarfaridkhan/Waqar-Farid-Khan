@@ -116,13 +116,6 @@ I'm **Waqar Farid**, an **AI-Powered Developer** and **Developer & Entrepreneur*
 <img src="./assets/projects.svg" alt="Animated projects showcase" width="100%" />
 </div>
 
-| Project | Status |
-| :-- | :-- |
-| **Sahiwal Mart** | ![In development](https://img.shields.io/badge/Currently%20Developing-a78bfa?style=flat-square) |
-| **Personal Portfolio** | ![In development](https://img.shields.io/badge/Currently%20Developing-a78bfa?style=flat-square) |
-| **Python Expense Tracker** | ![Completed](https://img.shields.io/badge/Completed-38bdf8?style=flat-square) |
-| **Animated GitHub Profile README** | ![Completed](https://img.shields.io/badge/Completed-38bdf8?style=flat-square) |
-
 ---
 
 
@@ -130,15 +123,7 @@ I'm **Waqar Farid**, an **AI-Powered Developer** and **Developer & Entrepreneur*
 <img src="./assets/education.svg" alt="Animated education card" width="100%" />
 </div>
 
-<table><tr><td>
 
-### BS Information Technology (BSIT)
-
-**Virtual University of Pakistan**
-
-📖 Currently Studying · **7th Semester**
-
-</td></tr></table>
 
 ---
 
@@ -155,12 +140,6 @@ Committed to continuous learning, exploring technology, developing professional 
 <div align="center">
 <img src="./assets/services.svg" alt="Animated services showcase" width="100%" />
 </div>
-
-<table>
-<tr><td width="50%" align="center"><b>🌐 Web Development</b></td><td width="50%" align="center"><b>🤖 AI-Powered Solutions</b></td></tr>
-<tr><td align="center"><b>🎨 Graphic Designing</b></td><td align="center"><b>📈 Business Development</b></td></tr>
-<tr><td align="center"><b>✨ UI/UX Design</b></td><td align="center"><b>💡 Prompt Engineering</b></td></tr>
-</table>
 
 ---
 
