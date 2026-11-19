@@ -37,7 +37,6 @@ I'm **Waqar Farid**, an **AI-Powered Developer** and **Developer & Entrepreneur*
 
 ---
 
-## ⚡ Technical Skills
 
 <div align="center">
 <img src="./assets/technical-skills.svg" width="100%" alt="Animated technical skills overview" />
@@ -103,7 +102,6 @@ I'm **Waqar Farid**, an **AI-Powered Developer** and **Developer & Entrepreneur*
 
 ---
 
-## 💼 Professional Experience
 
 <div align="center">
 <img src="./assets/experience.svg" alt="Animated career timeline for Business Development Manager at QTO Solutions, 1 Year" width="100%" />
@@ -113,7 +111,6 @@ I'm **Waqar Farid**, an **AI-Powered Developer** and **Developer & Entrepreneur*
 
 ---
 
-## 🚀 Projects
 
 <div align="center">
 <img src="./assets/projects.svg" alt="Animated projects showcase" width="100%" />
@@ -128,7 +125,6 @@ I'm **Waqar Farid**, an **AI-Powered Developer** and **Developer & Entrepreneur*
 
 ---
 
-## 🎓 Education
 
 <div align="center">
 <img src="./assets/education.svg" alt="Animated education card" width="100%" />
@@ -146,7 +142,6 @@ I'm **Waqar Farid**, an **AI-Powered Developer** and **Developer & Entrepreneur*
 
 ---
 
-## 📚 Professional Development
 
 <div align="center">
 <img src="./assets/professional-development.svg" alt="Animated professional development overview" width="100%" />
@@ -156,7 +151,6 @@ Committed to continuous learning, exploring technology, developing professional 
 
 ---
 
-## 🛠️ Services
 
 <div align="center">
 <img src="./assets/services.svg" alt="Animated services showcase" width="100%" />
